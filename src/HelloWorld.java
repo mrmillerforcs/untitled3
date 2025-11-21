@@ -3,5 +3,8 @@ public class HelloWorld {
         System.out.println("hello world!");
         System.out.println("hello again");
         System.out.println("hi!!!");
+
+        System.out.println("its fridaya");
+        System.out.println("tgif");
     }
 }
