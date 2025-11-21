@@ -9,5 +9,7 @@ public class HelloWorld {
 
         System.out.println("abnother change");
         System.out.println("post github");
+
+        System.out.println("commit and push!");
     }
 }
